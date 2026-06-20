@@ -276,3 +276,7 @@ tmp/
 # Secrets e chaves de API
 secrets.py
 credentials.json.u2net/
+
+# .oonx
+.u2net/
+*.onnx
