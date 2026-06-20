@@ -1,0 +1,6 @@
+touch fundos/.gitkeep
+touch fundos_xp/.gitkeep
+touch fundos_msg/.gitkeep
+touch fundos_msg_goodbye/.gitkeep
+touch assets/.gitkeep
+touch badges/.gitkeep
